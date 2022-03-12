@@ -51,7 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BigDealer.cs" />
     <Compile Include="Element.cs" />
+    <Compile Include="ElementExtension.cs" />
     <Compile Include="ElementName.cs" />
     <Compile Include="MainWindow.cs">
       <SubType>Form</SubType>
